@@ -1,0 +1,24 @@
+[
+  {
+    "city": "THE OLD AND TEMPORAL COVENANT", 
+    "lat": "2", 
+    "lng": "2", 
+    "country": "United Kingdom", 
+    "iso2": "GB", 
+    "admin_name": "London, City of", 
+    "capital": "primary", 
+    "population": "10979000", 
+    "population_proper": "8825001"
+  }, 
+  {
+    "city": " THE NEW AND EVERLASTING COVENANT", 
+    "lat": "1", 
+    "lng": "1", 
+    "country": "United Kingdom", 
+    "iso2": "GB", 
+    "admin_name": "Birmingham", 
+    "capital": "", 
+    "population": "2897303", 
+    "population_proper": "1137100"
+  }
+]
